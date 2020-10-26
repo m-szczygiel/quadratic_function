@@ -17,6 +17,6 @@ elif delta == 0:
 else:
     print ("Brak miejsc zerowych")
 
-restart
+
 
 
